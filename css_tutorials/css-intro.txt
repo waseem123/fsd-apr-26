@@ -1,0 +1,24 @@
+CSS - Cascading Stylesheet
+
+To style the HTML elements based on
+ - Color
+ - Background
+ - Size (Height and Width)
+ - Space (Margin and Padding)
+ - Fonts
+ - Borders
+ - Shadows
+ - Effects
+ - Transitions and Animations
+
+There are three types of CSS
+ 1. Inline CSS - Stylesheet written in attribute
+ 2. Internal CSS
+ 3. External CSS
+
+Syntax - 
+property1: value;
+property2: value;
+property3: value;
+..
+propertyN: value;
