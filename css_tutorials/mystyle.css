@@ -1,0 +1,11 @@
+h1 {
+    font-size: xx-large;
+    color: rgb(51, 117, 117);
+    background-color: rgb(204, 174, 233);
+}
+
+p {
+    font-size: x-large;
+    color: blueviolet;
+    background-color: aqua;
+}
